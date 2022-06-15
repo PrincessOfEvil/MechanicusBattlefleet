@@ -1,0 +1,24 @@
+{
+  "baseHullId": "battlefleets_imperium_gothic",
+  "descriptionId": "battlefleets_imperium_gothic",
+  "skinHullId": "battlefleets_imperium_gothic_mech",
+  "hullName": "Gothic (AM)",
+  "descriptionPrefix": "Adeptus Mechanicus ships tend to be run more efficiently, with high quality upgrades to all systems. None of it comes free, of course.",
+  "spriteName": "graphics/ships/battlefleets_imperium_gothic_mechanicus.png",
+  "manufacturer": "Mechanicus",
+  "tags":["imperium_bp"],
+
+  "baseValueMult": 2,
+  "ordnancePoints": 288,
+  "fleetPoints": 38,
+  "builtInMods": [
+    "civgrade",
+    "mechanicus"
+  ],
+
+  "systemId": "highenergyfocus",
+
+  "weaponSlotChanges" : {
+  },
+  "removeWeaponSlots":["WS0001", "WS0002", "WS0003", "WS0004", "WS0005", "WS0006"],
+}

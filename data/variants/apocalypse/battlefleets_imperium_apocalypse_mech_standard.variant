@@ -1,0 +1,46 @@
+{
+  "variantId": "battlefleets_imperium_apocalypse_mech_standard",
+  "hullId": "battlefleets_imperium_apocalypse_mech",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 49,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "mjolnir",
+        "WS0002": "mjolnir",
+        "WS0003": "mjolnir",
+        "WS0004": "mjolnir",
+        "WS0005": "mjolnir",
+        "WS0006": "mjolnir",
+        "WS0007": "mjolnir",
+        "WS0008": "mjolnir",
+        "WS0009": "mjolnir",
+        "WS0010": "mjolnir",
+        "WS0011": "mjolnir",
+        "WS0012": "mjolnir",
+        "WS0013": "battlefleets_imperium_rotary_macrocannon_mars",
+        "WS0014": "battlefleets_imperium_rotary_macrocannon_mars",
+        "WS0015": "battlefleets_imperium_rotary_macrocannon_mars",
+        "WS0016": "battlefleets_imperium_rotary_macrocannon_mars",
+        "WS0017": "battlefleets_imperium_tl_omega_bolter",
+        "WS0018": "battlefleets_imperium_tl_omega_bolter",
+        "WS0019": "battlefleets_imperium_tl_omega_bolter",
+        "WS0020": "battlefleets_imperium_tl_omega_bolter",
+        "WS0021": "battlefleets_imperium_tl_omega_bolter",
+        "WS0022": "battlefleets_imperium_tl_omega_bolter",
+        "WS0023": "battlefleets_imperium_tl_omega_bolter",
+        "WS0024": "battlefleets_imperium_tl_omega_bolter",
+        "WS0025": "battlefleets_imperium_nova_cannon"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

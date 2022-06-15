@@ -1,0 +1,9 @@
+{
+	"id":"battlefleets.mechanicus",
+	"name":"Mechanicus Battlefleet",
+	"author":"Princess of Evil",
+	"totalConversion":"false",
+	"version":"0.0.1",
+	"description":"A mod to bring Mechanicus into BFG.",
+	"gameVersion":"0.95.1a-RC6",
+}

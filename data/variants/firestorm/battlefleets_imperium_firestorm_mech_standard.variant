@@ -1,0 +1,30 @@
+{
+  "variantId": "battlefleets_imperium_firestorm_mech_standard",
+  "hullId": "battlefleets_imperium_firestorm_mech",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "blast_doors",
+    "hardened_subsystems"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "battlefleets_imperium_tl_heavy_lascannon",
+        "WS0002": "battlefleets_imperium_lance_cannon",
+        "WS0003": "battlefleets_imperium_tl_heavy_lascannon",
+        "WS0004": "battlefleets_imperium_tl_heavy_lascannon",
+        "WS0005": "battlefleets_imperium_tl_heavy_lascannon",
+        "WS0006": "battlefleets_imperium_tl_heavy_lascannon"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

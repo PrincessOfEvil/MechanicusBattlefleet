@@ -1,0 +1,26 @@
+{
+  "baseHullId": "battlefleets_imperium_mercury",
+  "descriptionId": "battlefleets_imperium_mercury",
+  "skinHullId": "battlefleets_imperium_mercury_mech",
+  "hullName": "Mercury (AM)",
+  "descriptionPrefix": "Adeptus Mechanicus ships tend to be run more efficiently, with high quality upgrades to all systems. None of it comes free, of course.",
+  "spriteName": "graphics/ships/battlefleets_imperium_mercury_mechanicus.png",
+  "manufacturer": "Mechanicus",
+  "tags":["imperium_bp"],
+
+  "baseValueMult": 2,
+  "ordnancePoints": 336,
+  "fleetPoints": 60,
+  "builtInMods": [
+    "civgrade",
+    "mechanicus"
+  ],
+
+  "systemId": "ammofeed",
+
+  "weaponSlotChanges" : {
+	"WS0022" : {"type": "HYBRID"},
+	"WS0023" : {"type": "HYBRID"},
+  },
+  "removeBuiltInWeapons":[],
+}

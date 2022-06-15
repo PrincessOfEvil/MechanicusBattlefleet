@@ -1,0 +1,24 @@
+{
+  "baseHullId": "battlefleets_imperium_firestorm",
+  "descriptionId": "battlefleets_imperium_firestorm",
+  "skinHullId": "battlefleets_imperium_firestorm_mech",
+  "hullName": "Firestorm (AM)",
+  "descriptionPrefix": "Adeptus Mechanicus ships tend to be run more efficiently, with high quality upgrades to all systems. None of it comes free, of course.",
+  "spriteName": "graphics/ships/battlefleets_imperium_firestormfrigate_mechanicus.png",
+  "manufacturer": "Mechanicus",
+  "tags":["imperium_bp"],
+
+  "baseValueMult": 2,
+  "ordnancePoints": 72,
+  "fleetPoints": 15,
+  "builtInMods": [
+    "civgrade",
+    "mechanicus"
+  ],
+
+  "systemId": "highenergyfocus",
+
+  "weaponSlotChanges" : {
+  },
+  "removeBuiltInWeapons":[  ],
+}

@@ -1,0 +1,38 @@
+{
+  "baseHullId": "battlefleets_imperium_universe",
+  "descriptionId": "battlefleets_imperium_universe",
+  "skinHullId": "battlefleets_imperium_universe_mech",
+  "hullName": "Universe Mass Conveyor (AM)",
+  "descriptionPrefix": "Adeptus Mechanicus ships tend to be run more efficiently, with high quality upgrades to all systems. None of it comes free, of course.",
+  "spriteName": "graphics/ships/battlefleets_imperium_universe_mechanicus.png",
+  "manufacturer": "Mechanicus",
+  "tags":["imperium_bp"],
+
+  "baseValueMult": 2,
+  "ordnancePoints": 330,
+  "fleetPoints": 60,
+  "builtInMods": [
+    "civgrade",
+    "mechanicus"
+  ],
+
+  "weaponSlotChanges" : {
+	"WS0010" : {"size": "MEDIUM"},
+	"WS0011" : {"size": "MEDIUM"},
+	"WS0012" : {"size": "MEDIUM"},
+	"WS0013" : {"size": "MEDIUM"},
+	"WS0014" : {"size": "MEDIUM"},
+	"WS0015" : {"size": "MEDIUM"},
+	"WS0016" : {"size": "MEDIUM"},
+	"WS0017" : {"size": "MEDIUM"},
+	"WS0018" : {"size": "MEDIUM"},
+	"WS0019" : {"size": "MEDIUM"},
+	"WS0020" : {"size": "MEDIUM"},
+	"WS0021" : {"size": "MEDIUM"},
+	"WS0022" : {"size": "MEDIUM"},
+	"WS0023" : {"size": "MEDIUM"},
+	"WS0024" : {"size": "MEDIUM"},
+	"WS0025" : {"size": "MEDIUM"},
+  },
+  "removeWeaponSlots":[ "LB 1", "LB 2", "LB 3", "LB 4" ],
+}

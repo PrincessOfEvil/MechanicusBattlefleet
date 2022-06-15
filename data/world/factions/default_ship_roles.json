@@ -1,0 +1,100 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":2,
+	},
+	"combatSmall":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":2,
+		
+	},
+	"combatMedium":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":2,
+
+		"battlefleets_imperium_endurance_mech_standard": 1,
+
+		"battlefleets_imperium_gothic_mech_standard": 1,
+
+		"battlefleets_imperium_mercury_mech_standard": 1,		
+	},
+	"combatLarge":
+	{
+		"battlefleets_imperium_firestorm_mech_standard": 1,
+
+		"battlefleets_imperium_endurance_mech_standard": 1.5,
+
+		"battlefleets_imperium_gothic_mech_standard": 1,
+
+		"battlefleets_imperium_mercury_mech_standard": 1,
+		"battlefleets_imperium_mercury_mech_balanced": 1,
+		
+		"battlefleets_imperium_apocalypse_mech_standard": 1,
+
+		"battlefleets_imperium_retribution_mech_standard": 1,
+		
+		
+	},
+	"combatCapital":
+	{
+		"battlefleets_imperium_firestorm_mech_standard": 0.5,
+		
+		"battlefleets_imperium_endurance_mech_standard": 1,
+		
+		"battlefleets_imperium_gothic_mech_standard": 1,
+
+		"battlefleets_imperium_mercury_mech_standard": 2,
+		"battlefleets_imperium_mercury_mech_balanced": 2,
+
+		"battlefleets_imperium_apocalypse_mech_standard": 2,
+		
+		"battlefleets_imperium_retribution_mech_standard": 2,
+		
+		"battlefleets_imperium_universe_mech_standard":1,
+		
+	},
+	"carrierSmall":
+	{
+	},
+	"carrierMedium":
+	{
+	},
+	"phaseMedium":
+	{
+	},
+	"tankerSmall":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":1,
+	},
+	"tankerMedium":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":1,
+		
+		"battlefleets_imperium_endurance_mech_standard": 0.5,
+		
+		"battlefleets_imperium_gothic_mech_standard": 0.25,		
+	},
+	"combatFreighterMedium":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":1,
+		
+		"battlefleets_imperium_endurance_mech_standard": 0.5,
+		
+		"battlefleets_imperium_gothic_mech_standard": 0.25,
+	},
+	"combatFreighterLarge":
+	{
+		"battlefleets_imperium_firestorm_mech_standard":1,
+
+		"battlefleets_imperium_endurance_mech_standard": 0.5,
+		
+		"battlefleets_imperium_gothic_mech_standard": 0.25,
+		
+		"battlefleets_imperium_universe_standard":0.2,
+	},
+	"tug":
+	{
+	},
+}

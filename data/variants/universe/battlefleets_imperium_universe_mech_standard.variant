@@ -1,0 +1,40 @@
+{
+  "variantId": "battlefleets_imperium_universe_mech_standard",
+  "hullId": "battlefleets_imperium_universe_mech",
+  "displayName": "Standard Mechanicus",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "battlefleets_imperium_sunbeam_lance_cannon_battery",
+        "WS0006": "battlefleets_imperium_tl_omega_bolter",
+        "WS0007": "battlefleets_imperium_tl_omega_bolter",
+        "WS0008": "battlefleets_imperium_tl_omega_bolter",
+        "WS0009": "battlefleets_imperium_tl_omega_bolter",
+        "WS0010": "flak",
+        "WS0011": "flak",
+        "WS0012": "flak",
+        "WS0013": "flak",
+        "WS0014": "flak",
+        "WS0015": "flak",
+        "WS0016": "flak",
+        "WS0017": "flak",
+        "WS0018": "flak",
+        "WS0019": "flak",
+        "WS0020": "flak",
+        "WS0021": "flak",
+        "WS0022": "flak",
+        "WS0023": "flak",
+        "WS0024": "flak",
+        "WS0025": "flak"
+      }
+    }
+  ]
+}

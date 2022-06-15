@@ -1,0 +1,24 @@
+{
+  "baseHullId": "battlefleets_imperium_endurance",
+  "descriptionId": "battlefleets_imperium_endurance",
+  "skinHullId": "battlefleets_imperium_endurance_mech",
+  "hullName": "Endurance (AM)",
+  "descriptionPrefix": "Adeptus Mechanicus ships tend to be run more efficiently, with high quality upgrades to all systems. None of it comes free, of course.",
+  "spriteName": "graphics/ships/battlefleets_imperium_endurance_mechanicus.png",
+  "manufacturer": "Mechanicus",
+  "tags":["imperium_bp"],
+
+  "baseValueMult": 2,
+  "ordnancePoints": 156,
+  "fleetPoints": 23,
+  "builtInMods": [
+    "civgrade",
+    "mechanicus"
+  ],
+
+  "systemId": "highenergyfocus",
+
+  "weaponSlotChanges" : {
+  },
+  "removeWeaponSlots":["WS0001", "WS0002", "WS0003", "WS0004"],
+}
