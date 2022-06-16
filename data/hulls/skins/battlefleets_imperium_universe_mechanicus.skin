@@ -10,10 +10,11 @@
 
   "baseValueMult": 2,
   "ordnancePoints": 330,
-  "fleetPoints": 60,
+  "fpMod": 2,
   "builtInMods": [
     "civgrade",
-    "mechanicus"
+    "mechanicus",
+    "mechanicus_manufactories"
   ],
 
   "weaponSlotChanges" : {
@@ -34,5 +35,6 @@
 	"WS0024" : {"size": "MEDIUM"},
 	"WS0025" : {"size": "MEDIUM"},
   },
-  "removeWeaponSlots":[ "LB 1", "LB 2", "LB 3", "LB 4" ],
+  "removeBuiltInWeapons":[ "WS0001", "WS0002", "WS0003", "WS0004" ],
+  "removeWeaponSlots":[ "WS0001", "WS0002", "WS0003", "WS0004", "LB 1", "LB 2", "LB 3", "LB 4" ],
 }

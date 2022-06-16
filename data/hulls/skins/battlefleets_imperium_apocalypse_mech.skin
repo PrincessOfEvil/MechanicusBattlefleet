@@ -10,7 +10,7 @@
 
   "baseValueMult": 2,
   "ordnancePoints": 475,
-  "fleetPoints": 75,
+  "fpMod": 2,
   "builtInMods": [
     "civgrade",
     "mechanicus"

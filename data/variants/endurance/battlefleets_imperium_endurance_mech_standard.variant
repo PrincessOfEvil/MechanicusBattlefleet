@@ -15,10 +15,10 @@
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0005": "battlefleets_imperium_lance_cannon_battery",
-        "WS0006": "battlefleets_imperium_lance_cannon_battery",
-        "WS0007": "battlefleets_imperium_lance_cannon_battery",
-        "WS0008": "battlefleets_imperium_lance_cannon_battery",
+        "WS0005": "battlefleets_imperium_sunbeam_lance_cannon_battery",
+        "WS0006": "battlefleets_imperium_sunbeam_lance_cannon_battery",
+        "WS0007": "battlefleets_imperium_sunbeam_lance_cannon_battery",
+        "WS0008": "battlefleets_imperium_sunbeam_lance_cannon_battery",
         "WS0009": "battlefleets_imperium_tl_heavy_lascannon",
         "WS0010": "battlefleets_imperium_tl_heavy_lascannon"
       }

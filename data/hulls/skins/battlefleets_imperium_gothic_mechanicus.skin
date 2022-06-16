@@ -10,7 +10,7 @@
 
   "baseValueMult": 2,
   "ordnancePoints": 288,
-  "fleetPoints": 38,
+  "fpMod": 2,
   "builtInMods": [
     "civgrade",
     "mechanicus"
@@ -20,5 +20,6 @@
 
   "weaponSlotChanges" : {
   },
+  "removeBuiltInWeapons":["WS0001", "WS0002", "WS0003", "WS0004", "WS0005", "WS0006"],
   "removeWeaponSlots":["WS0001", "WS0002", "WS0003", "WS0004", "WS0005", "WS0006"],
 }
